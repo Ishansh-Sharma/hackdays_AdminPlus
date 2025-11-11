@@ -1,0 +1,186 @@
+{
+    "bonafide_certificate": {
+      "display_name": "Bonafide Certificate",
+      "description": "A certificate to prove that the student is currently enrolled in Delhi Technological University.",
+      "required_documents": [
+        "Completed Bonafide Application Form (Form A-01)",
+        "Photocopy of Student ID Card"
+      ],
+      "department": "Academic Section",
+      "processing_time": "2 working days",
+      "notes": "For scholarship or internship purposes, specify the reason in the form."
+    },
+  
+    "transcript_request": {
+      "display_name": "Transcript Request",
+      "description": "Request for official academic transcripts for higher education or verification purposes.",
+      "required_documents": [
+        "Transcript Request Form (Form A-02)",
+        "Copy of all semester grade cards",
+        "Payment receipt (if applicable)"
+      ],
+      "department": "Examination Branch",
+      "processing_time": "5-7 working days",
+      "notes": "Transcripts can also be sent directly to universities if mailing details are provided."
+    },
+  
+    "duplicate_id_card": {
+      "display_name": "Duplicate ID Card Request",
+      "description": "Application for reissuing a lost or damaged student ID card.",
+      "required_documents": [
+        "Duplicate ID Request Form (Form A-03)",
+        "FIR copy or loss report",
+        "Payment receipt for reissue charges"
+      ],
+      "department": "Student Affairs",
+      "processing_time": "3 working days",
+      "notes": "Ensure the FIR mentions 'Loss of DTU ID card'."
+    },
+  
+    "fee_slip_request": {
+      "display_name": "Fee Slip Generation",
+      "description": "Request to obtain a copy of the semester fee slip.",
+      "required_documents": [
+        "Student ID Number",
+        "Semester details"
+      ],
+      "department": "Accounts Section",
+      "processing_time": "1 working day",
+      "notes": "Fee slips can also be downloaded from the ERP portal."
+    },
+  
+    "hostel_admission": {
+      "display_name": "Hostel Admission Request",
+      "description": "Application for availing hostel accommodation for a semester.",
+      "required_documents": [
+        "Hostel Admission Form (Form H-01)",
+        "Fee payment receipt",
+        "Photocopy of Student ID Card",
+        "Anti-ragging affidavit"
+      ],
+      "department": "Hostel Office",
+      "processing_time": "3-5 working days",
+      "notes": "Allotment is subject to availability and merit list."
+    },
+  
+    "hostel_leave": {
+      "display_name": "Hostel Leave Application",
+      "description": "Application for leave from hostel for a defined duration.",
+      "required_documents": [
+        "Hostel Leave Form (Form H-05)",
+        "Parent’s consent letter (if under 21)"
+      ],
+      "department": "Hostel Warden's Office",
+      "processing_time": "1 working day",
+      "notes": "Leave exceeding 7 days requires Dean of Student Welfare approval."
+    },
+  
+    "degree_certificate": {
+      "display_name": "Degree Certificate Request",
+      "description": "Application for original degree certificate after completion of course.",
+      "required_documents": [
+        "Degree Application Form (Form A-05)",
+        "Copy of Provisional Degree Certificate",
+        "Fee payment receipt"
+      ],
+      "department": "Examination Branch",
+      "processing_time": "10-12 working days",
+      "notes": "Degree is issued only after clearance of all dues."
+    },
+  
+    "provisional_certificate": {
+      "display_name": "Provisional Certificate Request",
+      "description": "Application for provisional certificate for passed-out students awaiting their final degree.",
+      "required_documents": [
+        "Provisional Certificate Form (Form A-06)",
+        "Copy of final semester marksheet"
+      ],
+      "department": "Examination Branch",
+      "processing_time": "3 working days",
+      "notes": "Issued before the degree certificate becomes available."
+    },
+  
+    "library_clearance": {
+      "display_name": "Library Clearance",
+      "description": "Clearance form required before obtaining degree or hostel clearance.",
+      "required_documents": [
+        "Library Clearance Form (Form L-01)",
+        "Library ID Card"
+      ],
+      "department": "Central Library",
+      "processing_time": "1 working day",
+      "notes": "All borrowed books must be returned before clearance."
+    },
+  
+    "internship_letter": {
+      "display_name": "Internship NOC / Approval Letter",
+      "description": "No Objection Certificate (NOC) for internships during the semester break.",
+      "required_documents": [
+        "Internship Application Form (Form I-01)",
+        "Offer letter from the organization"
+      ],
+      "department": "Training and Placement Cell",
+      "processing_time": "2-3 working days",
+      "notes": "NOC is mandatory for internships exceeding 4 weeks."
+    },
+  
+    "meeting_with_dean": {
+      "display_name": "Meeting Request with Dean/HoD",
+      "description": "Application to schedule an official meeting with the Dean or Head of Department.",
+      "required_documents": [
+        "Handwritten application stating purpose of meeting",
+        "Student ID Card copy (optional)"
+      ],
+      "department": "Dean’s Office",
+      "processing_time": "Subject to availability",
+      "notes": "Appointment confirmation will be sent via email."
+    },
+  
+    "grade_improvement": {
+      "display_name": "Grade Improvement / Re-evaluation Request",
+      "description": "Application for re-evaluation or improvement of grades.",
+      "required_documents": [
+        "Re-evaluation Form (Form E-01)",
+        "Copy of concerned marksheet",
+        "Payment receipt for re-evaluation fee"
+      ],
+      "department": "Examination Branch",
+      "processing_time": "5-10 working days",
+      "notes": "Re-evaluation results are final and binding."
+    },
+  
+    "address_proof_request": {
+      "display_name": "Address Proof Certificate",
+      "description": "Request for official address proof issued by DTU (for passport, bank, etc.).",
+      "required_documents": [
+        "Application Form (Form A-07)",
+        "Copy of Student ID Card"
+      ],
+      "department": "Student Affairs",
+      "processing_time": "2 working days",
+      "notes": "Issued only for active students staying in DTU hostels."
+    },
+  
+    "official_leave_application": {
+      "display_name": "Official Leave (Representing DTU)",
+      "description": "Application for official duty leave when representing DTU in events or competitions.",
+      "required_documents": [
+        "Official Leave Form (Form O-01)",
+        "Proof of event participation (invitation, mail, etc.)",
+        "Faculty mentor recommendation"
+      ],
+      "department": "Dean of Student Welfare (DSW)",
+      "processing_time": "2-3 working days",
+      "notes": "Leave period should not overlap with exam dates."
+    },
+  
+    "unknown_intent": {
+      "display_name": "Unknown Request",
+      "description": "The request is not recognized or not related to any DTU administrative process.",
+      "required_documents": [],
+      "department": "Student Helpdesk",
+      "processing_time": "N/A",
+      "notes": "Forwarded to the concerned department manually."
+    }
+  }
+  
